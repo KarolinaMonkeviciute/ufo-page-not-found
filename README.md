@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://karolinamonkeviciute.github.io/ufo-page-not-found/
 
 Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
@@ -66,7 +66,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Karolina: [Github](https://github.com/KarolinaMonkeviciute)
 
 ## ⚠️ License
 
